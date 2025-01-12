@@ -1,0 +1,11 @@
+langchain-community
+streamlit
+streamlit-chat
+langchain
+llama-cpp-python
+requests
+faiss-cpu
+sentence-transformers
+pypdf
+huggingface_hub
+python-dotenv
